@@ -9,10 +9,9 @@ Es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir l
 
 # ¿Para qué se usa Markdown?
 Algunas de las opciones con las que te será más fácil la vida usando Markdown:
-
-*Redacción de correos electrónicos:  es perfecto para escribir correos electrónicos que necesiten tener un formato especial de forma cómoda y rápida.
-*Listas de tareas pendientes: perfecto también para aquellas listas de tareas con texto sin formato. Incluso si se desea utilizar una aplicación especializada, como Cheddar para iOS, este también admite Markdown.
-*Notas organizadas: similar a las listas de “to do” anteriores, la mayor parte de las aplicaciones para tomar notas son compatibles con Markdown, siendo fácil su organización sin necesidad de tocar el formato.
+* Redacción de correos electrónicos:  es perfecto para escribir correos electrónicos que necesiten tener un formato especial de forma cómoda y rápida.
+* Listas de tareas pendientes: perfecto también para aquellas listas de tareas con texto sin formato. Incluso si se desea utilizar una aplicación especializada, como Cheddar para iOS, este también admite Markdown.
+* Notas organizadas: similar a las listas de “to do” anteriores, la mayor parte de las aplicaciones para tomar notas son compatibles con Markdown, siendo fácil su organización sin necesidad de tocar el formato.
 
 
 ## MarkDown Básico
