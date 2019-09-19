@@ -22,9 +22,11 @@ Cabecera 2
 ~~~
 
 * Otra forma de crear cabeceras es usando ***#***, dependiendo de la cantidad de numerales que se use las cabeceras seran más pequeñas (de un nivel inferior)
-`#Cabecera 1`
-`##Cabecera 2`
-`###Cabecera 3`
-`####Cabecera 4`
-`#####Cabecera 5`
+~~~
+#Cabecera 1
+##Cabecera 2
+###Cabecera 3
+####Cabecera 4
+#####Cabecera 5
+~~~
 Cabe mencionar que usar ***===*** para títulos y ***---*** para subtítulos es igual a usar ***#*** y ***##***, respectivamente.
